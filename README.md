@@ -1,4 +1,4 @@
-# rmfbauth
+# Izazaga
 Ejemplo de autenticación con Firebase y Google.
 
-Lo puedes ejecutar en https://rmfbauth.web.app
+Lo puedes ejecutar en https://ejercicio1-f93f0.web.app/
